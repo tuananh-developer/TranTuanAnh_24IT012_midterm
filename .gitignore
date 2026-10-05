@@ -1,0 +1,21 @@
+# Binaries
+ls
+my_ls
+*.out
+*.exe
+
+# Object files and build output
+*.o
+*.obj
+build/
+
+# Debug symbols & dumps
+*.dSYM/
+core
+
+# Editor & OS temporary files
+.vscode/
+.idea/
+*.swp
+*~
+.DS_Store
