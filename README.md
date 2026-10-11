@@ -3,7 +3,7 @@
 - **Student Name:** Trần Tuấn Anh
 - **Student ID:** 24IT012
 - **Course:** System Programming
-- **Project Repository:** `TranTuanAnh_24IT012_midterm`
+- **Project Repository:** [https://github.com/tuananh-developer/TranTuanAnh_24IT012_midterm](https://github.com/tuananh-developer/TranTuanAnh_24IT012_midterm)
 
 ---
 
